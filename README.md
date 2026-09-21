@@ -17,6 +17,66 @@ Sistema web para controle de inventário de ativos de TI: cadastro de equipament
 
 ---
 
+## Galeria
+
+<p align="center">
+  <img src="/images/dashboard.png" alt="Dashboard" width="88%" />
+</p>
+<p align="center"><em>Dashboard · totais, ativos por tipo e disponibilidade num só painel</em></p>
+
+<br />
+
+<p align="center">
+  <img src="/images/ativos.png" alt="Ativos" width="88%" />
+</p>
+<p align="center"><em>Ativos · cadastro com disponível, atribuído e status por item</em></p>
+
+<br />
+
+<p align="center">
+  <img src="/images/transferencias.png" alt="Transferencias" width="88%" />
+</p>
+<p align="center"><em>Transferências · histórico de movimentações entre locais</em></p>
+
+<br />
+
+<p align="center">
+  <img src="/images/compras.png" alt="Compras" width="88%" />
+</p>
+<p align="center"><em>Compras · pedidos, fornecedor, custo e status de entrega</em></p>
+
+<br />
+
+<p align="center">
+  <img src="/images/atribuicoes.png" alt="Atribuicoes" width="88%" />
+</p>
+<p align="center"><em>Atribuições · ativos vinculados a colaboradores, com devolução</em></p>
+
+<br />
+
+<p align="center">
+  <img src="/images/baixas.png" alt="Baixas" width="88%" />
+</p>
+<p align="center"><em>Baixas · descarte e outras saídas registradas por motivo</em></p>
+
+<br />
+
+<p align="center">
+  <img src="/images/usuarios.png" alt="usuarios" width="88%" />
+</p>
+<p align="center"><em>Baixas · descarte e outras saídas registradas por motivo</em></p>
+
+<br />
+
+<p align="center">
+  <img src="/images/configs.png" alt="Configuracoes" width="88%" />
+</p>
+<p align="center"><em>Configurações · cadastro de locais e funcionários</em></p>
+
+<br />
+
+---
+
 ## O que o sistema faz
 
 | Módulo | Para quê |
